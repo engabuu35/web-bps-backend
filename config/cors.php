@@ -8,7 +8,7 @@ return [
         'http://localhost:5173','https://web-bps-frontend-72wh.vercel.app'
     ],
 
-    'allowed_origins_patterns' => ['https://web-bps-frontend-72wh.vercel.app'],
+    'allowed_origins_patterns' => [],
     'allowed_headers' => ['*'],
 
     'exposed_headers' => [],
