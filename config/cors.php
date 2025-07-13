@@ -4,7 +4,7 @@ return [
     'paths' => ['api/*', 'login', 'logout'],
     'allowed_methods' => ['*'],
     'allowed_origins' => [
-        'https://web-bps-frontend-72wh.vercel.app',
+        'https://web-bps-frontend-chi.vercel.app',
         'http://localhost:5173'
     ],
     'allowed_origins_patterns' => [],
